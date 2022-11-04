@@ -7,12 +7,11 @@
  */
 const USER_CONFIG = {
   
-  USE_PASSAGE: 'push-deer',
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'PDU17570TLZGpmpNESogjBdhO7A3WR2H00RMwtdZI',
+  APP_ID: 'wx701e54957e6e9549',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '0001',
+  APP_SECRET: 'cb98b5f84682598252c1c07b86c89039',
 
   PROVINCE: '广东',
   CITY: '惠州',
