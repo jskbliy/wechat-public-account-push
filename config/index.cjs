@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: 'cb98b5f84682598252c1c07b86c89039',
 
   PROVINCE: '山东',
-  CITY: '寿光',
+  CITY: '潍坊',
 
   USERS: [
     {
@@ -29,7 +29,7 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '宝贝', year: '1999', date: '03-22',
+          type: '*生日', name: '晓玉', year: '1999', date: '03-22',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
@@ -51,7 +51,7 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '',
+  CALLBACK_TEMPLATE_ID: 'aBY09coC_VulIjOw3QcAmU0xveAo2bJz9L_HyhjHJqA',
 
   CALLBACK_USERS: [
     {
